@@ -1,2 +1,2 @@
-message: 你完了
-msg: '{cipher}c09c457cb5f1d3bcd429e1dc374b84d73b2fd1956a8379b85f7050352cd1989f'
+server:
+  port: 8802
