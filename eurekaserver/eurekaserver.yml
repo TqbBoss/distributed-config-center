@@ -1,0 +1,11 @@
+server:
+  port: 8001
+spring:
+  security:
+    user:
+      name: eureka
+      password: eureka
+management:
+  endpoint:
+    health:
+      show-details: always
